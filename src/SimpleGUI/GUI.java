@@ -1,3 +1,5 @@
+package SimpleGUI;
+
 import javax.swing.JOptionPane;
 public class GUI {
 
